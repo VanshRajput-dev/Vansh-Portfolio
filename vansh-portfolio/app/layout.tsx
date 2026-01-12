@@ -8,7 +8,7 @@ const syne = Syne({ subsets: ["latin"], variable: "--font-syne" })
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains" })
 
 export const metadata: Metadata = {
-  title: "Alex Chen - MLOps Engineer & Founder",
+  title: "Vansh-Rajput-Dev",
   description: "Building scalable AI infrastructure and creating tools for students. Cyber-industrial portfolio.",
   generator: "v0.app",
   icons: {
