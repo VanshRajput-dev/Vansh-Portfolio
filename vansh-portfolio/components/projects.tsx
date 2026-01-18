@@ -10,7 +10,7 @@ const projects = [
     description:
       "Automated end-to-end pipeline that extracts raw data, cleans and preprocesses it, trains a sentiment classification model, and generates predictions.",
     tech: ["Python", "TF-IDF", "Logistic Regression", "Docker", "DVC", "Jenkins"],
-    link: "#",
+    link: "https://github.com/VanshRajput-dev/ETL-Machine-Learning-Integration.git",
     featured: true,
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     description:
       "Chrome extension that captures live tab audio, transcribes speech using Whisper-based backend, and injects real-time English subtitles into webpages.",
     tech: ["JavaScript", "Chrome APIs", "Whisper", "Flask", "FFmpeg"],
-    link: "#",
+    link: "https://github.com/VanshRajput-dev/Auto-Sub.git",
     featured: true,
   },
 ]
