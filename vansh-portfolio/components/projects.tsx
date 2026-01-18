@@ -23,6 +23,27 @@ const projects = [
     link: "https://github.com/VanshRajput-dev/Auto-Sub.git",
     featured: true,
   },
+  {
+  id: 3,
+  title: "AI Investor Matching Platform",
+  subtitle: "FastAPI + ML Backend",
+  description:
+    "AI-powered backend that analyzes startup project descriptions, predicts relevant investment domains using SBERT + KNN, matches startups with suitable investors from structured datasets, and enables direct fundraiser–investor communication via an integrated chat system.",
+  tech: [
+    "Python",
+    "FastAPI",
+    "SBERT",
+    "KNN",
+    "KeyBERT",
+    "Scikit-learn",
+    "Pandas",
+    "Joblib"
+  ],
+  link: "https://github.com/VanshRajput-dev/ProjectDomainClassifier.git",
+  featured: true,
+}
+
+
 ]
 
 export function Projects() {
