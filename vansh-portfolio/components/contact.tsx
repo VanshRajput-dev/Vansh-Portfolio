@@ -105,7 +105,7 @@ export function Contact() {
             </a>
 
             <a
-              href="https://linkedin.com/in/vansh-rajput"
+              href="https://www.linkedin.com/in/vansh-rajput-95348a270/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ backgroundColor: "#1a1a1a", border: "2px solid #ccff00" }}
